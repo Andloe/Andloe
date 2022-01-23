@@ -1,7 +1,13 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/71982450/150691568-f0439169-3a86-4cbd-97c4-a6b95218abab.png)
+<p align="center">
+I'm a student :man_student:	at Raritan Valley Community College :green_book:, I'm part of the Interface Design and Web Development Program :computer:. What got me interested in this career path was the fact that it involves more of a functional and technical design :bar_chart: instead of an artistic one :paintbrush:. Currently in my last semester in plans of transfering to a four year institution :classical_building: to finish my education. 
+Apart from school I spend my time working on music :notes: and video games :space_invader:. I also love traveling :airplane: and learning about new cultures :earth_americas: and languages :sa:.
+</p>
 
-**Andloe/Andloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andloe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+I'm in myt
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
